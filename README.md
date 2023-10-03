@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Fretes</h1>
-<h3 align="center">A passionate IOS/Flutter developer from Paraguay</h3>
+<h3 align="center">A passionate IOS/ANDROID/Flutter developer from Paraguay</h3>
 
 - 🔭 I’m currently working on [IOS/Android & Flutter apps](https://github.com/mrpo0l/koko-flutter-app)
 
